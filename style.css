@@ -1,0 +1,143 @@
+/* Importing Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+
+/* Defining CSS variables for consistent styling */
+:root {
+    --system-font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', system-ui, sans-serif;
+    --default-font-family: Inter, var(--system-font-family);
+    --font-weight-regular: 400;
+    --font-weight-medium: 500;
+    --font-weight-bold: 600;
+    --space-1: 4px;
+    --space-2: 8px;
+    --space-3: 12px;
+    --space-4: 16px;
+    --space-5: 24px;
+    --space-6: 32px;
+    --space-7: 40px;
+    --radius-1: 3px;
+    --radius-2: 4px;
+    --radius-3: 6px;
+    --branded-page-background: #000000;
+    --color-panel: rgba(255, 255, 255, 0.05);
+    --accent-2: #191919;
+    --accent-3: #232323;
+    --accent-4: #2a2a2a;
+    --accent-9: #fff;
+    --accent-11: #b4b4b4;
+    --accent-12: #eee;
+    --accent-a7: #ffffff48;
+    --accent-a10: #fffffff6;
+    --focus-8: #6255ae;
+    --focus-a4: #8063ff62;
+    --focus-11: #b1a9ff;
+    --branded-link-color: #B1A9FF;
+    --branded-button-background: #FFFFFF;
+    --branded-button-color: #000000;
+    --branded-button-hover-background: #f6f6f6;
+    --branded-button-active-background: #ededed;
+    --accent-contrast: #000;
+    --shadow-2: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Resetting default styles and applying global font */
+
+
+/* Styling the body to center the content */
+
+
+/* Wrapper for the login/signup form */
+
+
+/* Title text for login/signup */
+
+
+/* Individual title styling */
+
+
+/* Container for the forms */
+
+
+/* Slide controls for toggling between login and signup */
+
+
+/* Individual slide buttons */
+
+
+/* Slide tab animation */
+
+
+/* Hiding radio buttons used for toggling */
+
+/* Slide tab movement for signup */
+
+
+/* Active state for signup button */
+
+
+/* Active state for login button */
+
+
+/* Inner container for forms */
+
+
+/* Individual form styling */
+
+
+/* Form movement for signup */
+
+
+/* Input field styling */
+
+
+/* Input box styling */
+
+
+/* Input focus effect */
+
+
+/* Placeholder styling */
+
+
+/* Label styling for input fields */
+
+
+/* Label animation on input focus */
+
+
+/* Password link styling */
+
+
+/* Password link hover effect */
+
+
+
+/* Signup link styling */
+
+
+/* Signup link hover effect */
+
+
+/* Submit button styling */
+
+
+/* Submit button hover effect */
+
+
+/* Submit button active effect */
+
+
+/* Social login section */
+
+/* Social login text */
+
+/* Social icons container */
+
+
+/* Individual social icon styling */
+
+
+/* Social icon hover effect */
+
+
+/* Responsive styling for smaller screens */
